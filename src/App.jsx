@@ -240,7 +240,7 @@ function App() {
   {/* customer review */}
   <div  className="bg-primary p-5 md:px-10 md:py-10 ">
         <h1 className="font-inter font-semibold tracking-wide text-white/80 text-center text-2xl ">Customer Review</h1>
-        <div className="flex justify-center items-center gap-5 py-5 overflow-x-auto">
+        <div className="flex  gap-5 py-5 overflow-x-auto">
           <div className="inline-flex glass-morph p-5 rounded-lg  flex-col items-start gap-2">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-full bg-indigo-600"></div>
